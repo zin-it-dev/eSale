@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Samsung Galaxy A21",
+		"description": "",
+		"price": 2999.999,
+		"category_id": 1
+	},
+	{
+		"title": "Tablet Oppo 23SC",
+		"description": "",
+		"price": 44999.999,
+		"category_id": 2
+	},
+	{
+		"title": "Laptop Desk 29.GI",
+		"description": "",
+		"price": 90089.999,
+		"category_id": 3
+	}
+]
